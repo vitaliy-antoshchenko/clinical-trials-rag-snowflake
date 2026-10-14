@@ -1,0 +1,693 @@
+{
+ "studies": [
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT07358884",
+     "orgStudyIdInfo": {
+      "id": "QLS5316-101"
+     },
+     "organization": {
+      "fullName": "Qilu Pharmaceutical Co., Ltd.",
+      "class": "INDUSTRY"
+     },
+     "briefTitle": "First in Human Study of QLS5316 in Solid Tumors",
+     "officialTitle": "A Phase 1 Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of QLS5316 Monotherapy in Patients With Advanced Solid Tumors"
+    },
+    "statusModule": {
+     "statusVerifiedDate": "2026-01",
+     "overallStatus": "NOT_YET_RECRUITING",
+     "expandedAccessInfo": {
+      "hasExpandedAccess": false
+     },
+     "startDateStruct": {
+      "date": "2026-01",
+      "type": "ESTIMATED"
+     },
+     "primaryCompletionDateStruct": {
+      "date": "2027-12",
+      "type": "ESTIMATED"
+     },
+     "completionDateStruct": {
+      "date": "2027-12",
+      "type": "ESTIMATED"
+     },
+     "studyFirstSubmitDate": "2026-01-05",
+     "studyFirstSubmitQcDate": "2026-01-13",
+     "studyFirstPostDateStruct": {
+      "date": "2026-01-22",
+      "type": "ACTUAL"
+     },
+     "lastUpdateSubmitDate": "2026-01-13",
+     "lastUpdatePostDateStruct": {
+      "date": "2026-01-22",
+      "type": "ACTUAL"
+     }
+    },
+    "sponsorCollaboratorsModule": {
+     "responsibleParty": {
+      "type": "SPONSOR"
+     },
+     "leadSponsor": {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "class": "INDUSTRY"
+     }
+    },
+    "oversightModule": {
+     "oversightHasDmc": true,
+     "isFdaRegulatedDrug": false,
+     "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+     "briefSummary": "This is a first-in-human (FIH) Phase I, multi-center, open-label, study of QLS5316, in patients with advanced solid tumors. The study aim to evaluating the safety, tolerability, preliminary efficacy, pharmacokinetics (PK), and immunogenicity of QLS5316 as monotherapy."
+    },
+    "conditionsModule": {
+     "conditions": [
+      "Solid Tumors",
+      "Colorectal Cancer",
+      "Gastric Cancer or Gastroesophageal Junction Adenocarcinoma",
+      "Head and Neck Squamous Cell Carcinoma",
+      "Non-small Cell Lung Cancer"
+     ]
+    },
+    "designModule": {
+     "studyType": "INTERVENTIONAL",
+     "phases": [
+      "PHASE1"
+     ],
+     "designInfo": {
+      "allocation": "NA",
+      "interventionModel": "SINGLE_GROUP",
+      "primaryPurpose": "TREATMENT",
+      "maskingInfo": {
+       "masking": "NONE"
+      }
+     },
+     "enrollmentInfo": {
+      "count": 300,
+      "type": "ESTIMATED"
+     }
+    },
+    "armsInterventionsModule": {
+     "armGroups": [
+      {
+       "label": "QLS5316",
+       "type": "EXPERIMENTAL",
+       "description": "patients with advanced solid tumors were administrated with varying doses of QLS5316 specified in protocol",
+       "interventionNames": [
+        "Drug: QLS5316"
+       ]
+      }
+     ],
+     "interventions": [
+      {
+       "type": "DRUG",
+       "name": "QLS5316",
+       "description": "Varying doses of QLS5316",
+       "armGroupLabels": [
+        "QLS5316"
+       ]
+      }
+     ]
+    },
+    "outcomesModule": {
+     "primaryOutcomes": [
+      {
+       "measure": "Number of participants with adverse events as assessed by NCI-CTCAE v5.0",
+       "description": "To evaluate the safety and tolerability of QLS5316",
+       "timeFrame": "From time of Informed Consent to 30 days post last dose of QLS5316"
+      },
+      {
+       "measure": "Number of Participants With Clinical Laboratory Test Abnormalities",
+       "description": "Clinical laboratory test included Hematology, Blood and serum chemistry, Coagulation function, and Fecal occult blood.",
+       "timeFrame": "From time of Informed Consent to 30 days post last dose of QLS5316"
+      },
+      {
+       "measure": "12-lead ECG(Including heart rate, QT interval, QTc interval, and P-R interval)",
+       "description": "Assessment of abnormal electrocardiogram parameters before and after treatment",
+       "timeFrame": "From time of Informed Consent to 30 days post last dose of QLS5316"
+      },
+      {
+       "measure": "Number of participants with physical examination abnormalities",
+       "description": "Including general conditions, skin and mucosa, systemic superficial lymph nodes, head and neck, chest, abdomen, spine and extremities, nervous system, and other examinations.",
+       "timeFrame": "From time of Informed Consent to 30 days post last dose of QLS5316"
+      },
+      {
+       "measure": "Number of participants with vital signs abnormalities",
+       "description": "Including body temperature, respiratory rate, pulse, blood pressure, and oxygen saturation",
+       "timeFrame": "From time of Informed Consent to 30 days post last dose of QLS5316"
+      },
+      {
+       "measure": "DLT",
+       "description": "Number of patients with at least 1 dose-limiting toxicity (DLT), which is any toxicity defined as a DLT in the Protocol",
+       "timeFrame": "From time of first dose of QLS5316 to end of DLT period (21 days)"
+      },
+      {
+       "measure": "MTD",
+       "description": "the maximum tolerated dose (MTD) or maximum administered dose (MAD, if MTD fails to be determined) of QLS5316 monotherapy",
+       "timeFrame": "1 year"
+      },
+      {
+       "measure": "RP2D",
+       "description": "the recommended phase II dose of QLS5316 monotherapy",
+       "timeFrame": "2 year"
+      }
+     ]
+    },
+    "eligibilityModule": {
+     "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status: 0-1\n3. Life expectancy \u2265 3 months;\n4. Measurable disease per RECIST v1.1\n5. Adequate organ and marrow function as defined in the protocol\n6. Dose escalation and PK expansion stages: Histologically or cytologically confirmed locally advanced or metastatic malignant solid tumors that cannot undergo radical surgery or radiotherapy, who have failed SOC or SOC is not available\n7. Cohort expansion stage: Patients with histologically or cytologically confirmed locally advanced or metastatic malignant solid tumors that cannot undergo radical surgery or radiotherapy, including CRC, GC/GEJ, HNSCC (mouth, oropharynx, hypopharynx or larynx), EGFR-sensitive mutant NSCLC and EGFR wild-type NSCLC or other advanced malignant solid tumors who have failed SOC or SOC is not available.\n\nExclusion Criteria:\n\n1. Prior treatment with antibody-drug conjugates (ADCs) containing topoisomerase I inhibitors, or prior treatment with EGFR and/or c-MET targeted ADCs\n2. Untreated or active brain metastasis\n3. Presence of Grade \u2265 2 toxicity (according to the Common Terminology Criteria for Adverse Events (CTCAE Version 5.0) ) left over from prior therapy\n4. Patients with a history of interstitial lung disease (ILD)/non-infectious pneumonia, or patients whose suspected ILD/non-infectious pneumonia cannot be ruled out by imaging examination at screening; patients with radiation pneumonitis who do not require steroid treatment are allowed to be enrolled;\n5. Patients with a history of active tuberculosis, active autoimmune diseases or autoimmune diseases that may recur\n6. Patients with a history of severe cardiovascular and cardiovascular diseases\n7. Clinically uncontrollable third space effusion\n8. Presence of persistent uncontrolled systemic bacterial, fungal or viral infections or severe infections within 4 weeks before the first dose in the study, or active infections requiring systematic antibiotic treatment within 1 week before the first dose in the study;\n9. Known hypersensitivity reactions or delayed-type sensitization to some components or analogues of the investigational drug",
+     "healthyVolunteers": false,
+     "sex": "ALL",
+     "minimumAge": "18 Years",
+     "stdAges": [
+      "ADULT",
+      "OLDER_ADULT"
+     ]
+    },
+    "contactsLocationsModule": {
+     "centralContacts": [
+      {
+       "name": "Shengxiang Ren, MD",
+       "role": "CONTACT",
+       "phone": "021-65115006-3051",
+       "email": "harry_ren@126.com"
+      }
+     ]
+    }
+   },
+   "derivedSection": {
+    "miscInfoModule": {
+     "versionHolder": "2026-10-13"
+    },
+    "conditionBrowseModule": {
+     "meshes": [
+      {
+       "id": "D015179",
+       "term": "Colorectal Neoplasms"
+      },
+      {
+       "id": "D013274",
+       "term": "Stomach Neoplasms"
+      },
+      {
+       "id": "D000077195",
+       "term": "Squamous Cell Carcinoma of Head and Neck"
+      },
+      {
+       "id": "D002289",
+       "term": "Carcinoma, Non-Small-Cell Lung"
+      }
+     ],
+     "ancestors": [
+      {
+       "id": "D007414",
+       "term": "Intestinal Neoplasms"
+      },
+      {
+       "id": "D005770",
+       "term": "Gastrointestinal Neoplasms"
+      },
+      {
+       "id": "D004067",
+       "term": "Digestive System Neoplasms"
+      },
+      {
+       "id": "D009371",
+       "term": "Neoplasms by Site"
+      },
+      {
+       "id": "D009369",
+       "term": "Neoplasms"
+      },
+      {
+       "id": "D004066",
+       "term": "Digestive System Diseases"
+      },
+      {
+       "id": "D005767",
+       "term": "Gastrointestinal Diseases"
+      },
+      {
+       "id": "D003108",
+       "term": "Colonic Diseases"
+      },
+      {
+       "id": "D007410",
+       "term": "Intestinal Diseases"
+      },
+      {
+       "id": "D012002",
+       "term": "Rectal Diseases"
+      },
+      {
+       "id": "D013272",
+       "term": "Stomach Diseases"
+      },
+      {
+       "id": "D002294",
+       "term": "Carcinoma, Squamous Cell"
+      },
+      {
+       "id": "D002277",
+       "term": "Carcinoma"
+      },
+      {
+       "id": "D009375",
+       "term": "Neoplasms, Glandular and Epithelial"
+      },
+      {
+       "id": "D009370",
+       "term": "Neoplasms by Histologic Type"
+      },
+      {
+       "id": "D006258",
+       "term": "Head and Neck Neoplasms"
+      },
+      {
+       "id": "D002283",
+       "term": "Carcinoma, Bronchogenic"
+      },
+      {
+       "id": "D001984",
+       "term": "Bronchial Neoplasms"
+      },
+      {
+       "id": "D008175",
+       "term": "Lung Neoplasms"
+      },
+      {
+       "id": "D012142",
+       "term": "Respiratory Tract Neoplasms"
+      },
+      {
+       "id": "D013899",
+       "term": "Thoracic Neoplasms"
+      },
+      {
+       "id": "D008171",
+       "term": "Lung Diseases"
+      },
+      {
+       "id": "D012140",
+       "term": "Respiratory Tract Diseases"
+      }
+     ]
+    }
+   },
+   "hasResults": false
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT04597671",
+     "orgStudyIdInfo": {
+      "id": "NVALT28"
+     },
+     "organization": {
+      "fullName": "Dutch Society of Physicians for Pulmonology and Tuberculosis",
+      "class": "OTHER"
+     },
+     "briefTitle": "Durvalumab and Low-dose PCI vs Durvalumab and Observation in Radically Treated Patients With Stage III NSCLC (NVALT28)",
+     "officialTitle": "NVALT 28/ PRL01 Durvalumab and Low-dose Prophylactic Cranial Irradiation (PCI) Versus Durvalumab and Observation in Radically Treated Patients With Stage III Non-small Cell Lung Cancer: A Phase III Randomized Study",
+     "acronym": "NVALT28"
+    },
+    "statusModule": {
+     "statusVerifiedDate": "2025-01",
+     "overallStatus": "ACTIVE_NOT_RECRUITING",
+     "expandedAccessInfo": {
+      "hasExpandedAccess": false
+     },
+     "startDateStruct": {
+      "date": "2021-12-06",
+      "type": "ACTUAL"
+     },
+     "primaryCompletionDateStruct": {
+      "date": "2028-12",
+      "type": "ESTIMATED"
+     },
+     "completionDateStruct": {
+      "date": "2032-12",
+      "type": "ESTIMATED"
+     },
+     "studyFirstSubmitDate": "2020-09-24",
+     "studyFirstSubmitQcDate": "2020-10-15",
+     "studyFirstPostDateStruct": {
+      "date": "2020-10-22",
+      "type": "ACTUAL"
+     },
+     "lastUpdateSubmitDate": "2025-01-28",
+     "lastUpdatePostDateStruct": {
+      "date": "2025-01-29",
+      "type": "ACTUAL"
+     }
+    },
+    "sponsorCollaboratorsModule": {
+     "responsibleParty": {
+      "type": "SPONSOR"
+     },
+     "leadSponsor": {
+      "name": "Association NVALT Studies",
+      "class": "OTHER"
+     }
+    },
+    "oversightModule": {
+     "oversightHasDmc": true,
+     "isFdaRegulatedDrug": false,
+     "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+     "briefSummary": "This trial studies the combination of low-dose PCI with or without durvalumab in patients with radically treated stage III NSCLC. The hypothesis is that the incidence of brain metastases will be reduced from 30% to 15 % with durvalumab and to a maximum of 5% with the addition of low-dose PCI. This strategy would make brain metastases in stage III NSCLC history and this would improve QoL.",
+     "detailedDescription": "The brain is frequently a site of disease relapse in Non-Small Cell Lung Cancer (NSCLC) patients. For radically treated patients, stage III has the highest risk for brain metastases with a cumulative incidence of brain metastases after radical treatment of approximately 30% for which there is no cure at the moment, decreasing the long-term survival and Quality of Life. Strategies to reduce incidence of brain metastases are necessary.\n\nProphylactic Cranial Irradiation (PCI) has been shown to reduce the incidence of brain metastases in patients with NSCLC. However, PCI leads to a neurocognitive impairment in about 25% of patients without altering the QoL.\n\nThe addition of durvalumab after chemo-radiotherapy in stage III NSCLC could reduce the incidence of brain metastases. In pre-clinical models, immunotherapy potentiates the effects of radiotherapy by a factor two to five. This makes the combination of PCI and immunotherapy interesting to evaluate whether it can further decrease the percentage of brain metastases as well as preserve organ function as a lower radiation dose can probably be used when combined with an antiprogrammed death (ligand)1 (PD(L)-1).\n\nThe hypothesis of the NVALT28 trial is that the combination of PCI with durvalumab will decrease the incidence of brain metastases from 30% to 15 % with durvalumab and to a maximum of 5% with the addition of low-dose PCI. This strategy would make brain metastases in stage III NSCLC history and this would improve QoL."
+    },
+    "conditionsModule": {
+     "conditions": [
+      "Carcinoma, Non-Small-Cell Lung"
+     ],
+     "keywords": [
+      "PCI",
+      "immunotherapy",
+      "NSCLC",
+      "QoL"
+     ]
+    },
+    "designModule": {
+     "studyType": "INTERVENTIONAL",
+     "phases": [
+      "PHASE3"
+     ],
+     "designInfo": {
+      "allocation": "RANDOMIZED",
+      "interventionModel": "PARALLEL",
+      "primaryPurpose": "PREVENTION",
+      "maskingInfo": {
+       "masking": "NONE"
+      }
+     },
+     "enrollmentInfo": {
+      "count": 170,
+      "type": "ESTIMATED"
+     }
+    },
+    "armsInterventionsModule": {
+     "armGroups": [
+      {
+       "label": "Arm A",
+       "type": "EXPERIMENTAL",
+       "description": "Durvalumab with low-dose PCI",
+       "interventionNames": [
+        "Drug: Durvalumab",
+        "Radiation: low-dose PCI"
+       ]
+      },
+      {
+       "label": "Arm B",
+       "type": "ACTIVE_COMPARATOR",
+       "description": "Durvalumab with observation",
+       "interventionNames": [
+        "Drug: Durvalumab"
+       ]
+      }
+     ],
+     "interventions": [
+      {
+       "type": "DRUG",
+       "name": "Durvalumab",
+       "description": "Durvalumab is used as standard of care",
+       "armGroupLabels": [
+        "Arm A",
+        "Arm B"
+       ],
+       "otherNames": [
+        "Imfinzi"
+       ]
+      },
+      {
+       "type": "RADIATION",
+       "name": "low-dose PCI",
+       "description": "PCI will be given concurrently with durvalumab. PCI will be given to a dose of 15 Gy in 10 fractions",
+       "armGroupLabels": [
+        "Arm A"
+       ],
+       "otherNames": [
+        "Prophylactic Cranial Irradiation (PCI)"
+       ]
+      }
+     ]
+    },
+    "outcomesModule": {
+     "primaryOutcomes": [
+      {
+       "measure": "Reduction of incidence of brain metastases",
+       "description": "To evaluate whether the addition of PCI to durvalumab after concurrent chemo-radiotherapy for stage III NSCLC reduces the cumulative incidence of brain metastases.",
+       "timeFrame": "From randomisation until moment of discovery of brain metastases or latest at 24 months after randomization"
+      }
+     ],
+     "secondaryOutcomes": [
+      {
+       "measure": "Effect on neurocognitive functioning",
+       "description": "To evaluate what the effect is on neurocognitive functioning to be meassured with HVLT-R carried out by hospital staff.",
+       "timeFrame": "From randomization until 24 months after randomization"
+      },
+      {
+       "measure": "Time to develop neurological symptoms",
+       "description": "To evaluate time to develop neurological symptoms (CTCAE version 5.0)",
+       "timeFrame": "From randomization until time to develop neurological symptoms with a maximum of 24 months after randomization"
+      },
+      {
+       "measure": "Toxicity assessment",
+       "description": "To evaluate adverse events (CTCAE v 5.0 and PRO-CTCAE) that is the result of study treatment",
+       "timeFrame": "From randomization until end of study treatment"
+      },
+      {
+       "measure": "Patient reported neurocognitive decline",
+       "description": "To evaluate patient reported neurocognitive decline using PRO-CTCAE (patient reported outcome)",
+       "timeFrame": "From randomization until 5 years after randomization"
+      },
+      {
+       "measure": "Cost-efficiency",
+       "description": "To evaluate cost-efficiency of the addition of PCI to durvalumab with a state-transition model, calculated with Dutch tariff",
+       "timeFrame": "From randomization until end of study treatment"
+      }
+     ]
+    },
+    "eligibilityModule": {
+     "eligibilityCriteria": "Inclusion criteria:\n\n1. Patients must sign a study-specific informed consent\n2. TNM8 stage IIIA, IIIB or IIIC non-small cell lung cancer before start of concurrent chemoradiotherapy (preferentially histology; cytology is allowed)\n3. Whole body FDG-PET-scan and brain imaging (MRI or CT with iv contrast) before the start of chemoradiotherapy: No distant metastases.\n4. Additional brain MRI (MRI mandatory) dated within 28 days before randomization: no brain metastases.\n5. Eligible for durvalumab treatment according to registration label of durvalumab in the Netherlands. Durvalumab has to be given in standard of care. (durvalumab has to be started already before randomization and PCI (i.e. at least one administration of durvalumab has to be given before randomization).\n6. Treatment completed with concurrent chemoradiation. The last day of chemoradiotherapy should be within 80 days of randomization and randomization should be after start of durvalumab. Any platinum doublet or daily cisplatin regimen that is standard of care in The Netherlands is allowed. No disease progression after chemoradiotherapy (evaluated with CT-thorax and upper abdomen during/after the last dose of chemoradiotherapy and comparison with CT before start of chemoradiotherapy). Consolidation chemotherapy cycles after radiotherapy is not permitted but administration of 1 cycle of chemotherapy prior to concurrent chemo-radiotherapy is acceptable. Where possible, chemotherapy regimens should be given according to National Comprehensive Cancer Network (NCCN) Guidelines or European Society for Medical Oncology (ESMO) Guidelines.\n7. To be eligible for randomization, patients must have received a total dose of thoracic radiotherapy of 60-66 Gy in 2 - 2.75 Gy per day, oncedaily fractions, or in case of daily cisplatin regimen 60.5-66 Gy in 22-24 fractions. Other radiotherapy schedules are not allowed. Sites are encouraged to adhere to the organ at risk constraints as used in the PACIFIC study as well as the EORTC recommendations for high-dose radiotherapy for lung cancer:\n\n   1. Mean lung dose must be \\<20 Gy and/or V20Gy must be \\<35%\n   2. Mean oesophagus dose must be \\<34 Gy\n   3. Heart V45Gy \\<35% or V30Gy \\<30%.\n8. Proton therapy to the chest is allowed.\n9. ECOG performance status 0-1 at the time of randomization.\n10. Evidence of postmenopausal status, or negative urinary or serum pregnancy test for female premenopausal patients.\n\nExclusion Criteria:\n\n1. Participation in another clinical study with an investigational product during the last 4 weeks.\n2. Concurrent enrolment in another clinical study, unless it is an observational (non-interventional) clinical study or a study that will not influence the primary and secondary endpoint parameters (e.g. bioimpedance measurements, E-Nose) or the follow-up period of an interventional study. Note: participation in the NVALT31 study (follow up with CT thorax or PET-CT) is allowed\n3. Mixed small cell and non-small cell lung cancer histology.\n4. Patients who receive sequential chemoradiation therapy for locally advanced NSCLC.\n5. Disease progression after completion of definitive platinum based, concurrent chemoradiation therapy, as proven by a CT scan after end of chemoradiation.\n6. Any unresolved toxicity CTCAE (v. 5.0) more than grade 2 (i.e. grade 3 or higher) from the prior chemoradiation therapy. Patients with irreversible toxicity that is not reasonably expected to be exacerbated by PCI may be included (e.g. hearing loss) after consultation with the principal investigator.\n7. Any concurrent chemotherapy, immunotherapy, biologic or hormonal therapy for cancer treatment.\n8. Active or prior documented autoimmune disease within the past 2 years. NOTE: Patients with vitiligo, Grave's disease, diabetes type I or psoriasis not requiring systemic treatment (within the past 2 years) are not excluded.\n9. Active or prior documented inflammatory bowel disease (e.g. Crohn's disease, ulcerative colitis).\n10. History of primary immunodeficiency.\n11. History of organ transplant that requires therapeutic immunosuppression.\n12. Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, active peptic ulcer disease or gastritis, active bleeding diatheses or psychiatric illness/ social situations that would limit compliance with study requirements or compromise the ability of the patient to give written informed consent.\n13. Known history of tuberculosis, hepatitis B, hepatitis C or Human Immunodeficiency Virus (HIV).\n14. History of another primary malignancy within 2 years prior to starting study drug, except for adequately treated basal or squamous cell carcinoma of the skin or cancer of the cervix in situ and the disease under study.\n15. Prior cranial irradiation is not allowed.\n16. Except for durvalumab after concurrent chemoradiotherapy, no previous treatment with PD-(L)1-inhibitors is allowed.\n17. Female patients who are pregnant, breastfeeding or male or female patients of reproductive potential who are not employing an effective method of birth control.\n18. Any condition that, in the opinion of the investigator, would interfere with evaluation of the study drug or interpretation of patient safety or study results.",
+     "healthyVolunteers": false,
+     "sex": "ALL",
+     "minimumAge": "18 Years",
+     "stdAges": [
+      "ADULT",
+      "OLDER_ADULT"
+     ]
+    },
+    "contactsLocationsModule": {
+     "overallOfficials": [
+      {
+       "name": "Dirk De Ruysscher, MD PhD",
+       "affiliation": "Maastricht University/ Maastro clinic",
+       "role": "PRINCIPAL_INVESTIGATOR"
+      },
+      {
+       "name": "Lizza Hendriks, MD PhD",
+       "affiliation": "Maastricht UMC",
+       "role": "PRINCIPAL_INVESTIGATOR"
+      }
+     ],
+     "locations": [
+      {
+       "facility": "ZGT",
+       "city": "Almelo",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 52.35667,
+        "lon": 6.6625
+       }
+      },
+      {
+       "facility": "AmsterdamUMC - location VUmc",
+       "city": "Amsterdam",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 52.37403,
+        "lon": 4.88969
+       }
+      },
+      {
+       "facility": "Radiotherapie Groep",
+       "city": "Arnhem",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.98,
+        "lon": 5.91111
+       }
+      },
+      {
+       "facility": "Rijnstate",
+       "city": "Arnhem",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.98,
+        "lon": 5.91111
+       }
+      },
+      {
+       "facility": "Gelderse Vallei",
+       "city": "Ede",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 52.03333,
+        "lon": 5.65833
+       }
+      },
+      {
+       "facility": "Catharina Ziekenhuis",
+       "city": "Eindhoven",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.44083,
+        "lon": 5.47778
+       }
+      },
+      {
+       "facility": "ZRTI",
+       "city": "Flushing",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.4425,
+        "lon": 3.57361
+       }
+      },
+      {
+       "facility": "UMCG",
+       "city": "Groningen",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 53.21917,
+        "lon": 6.56667
+       }
+      },
+      {
+       "facility": "Maastro",
+       "city": "Maastricht",
+       "zip": "5912 BL",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 50.84833,
+        "lon": 5.68889
+       }
+      },
+      {
+       "facility": "Canisius Wilhemina Ziekenhuis",
+       "city": "Nijmegen",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.8425,
+        "lon": 5.85278
+       }
+      },
+      {
+       "facility": "Radboud UMC",
+       "city": "Nijmegen",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.8425,
+        "lon": 5.85278
+       }
+      },
+      {
+       "facility": "ZorgSaam Ziekenhuis",
+       "city": "Terneuzen",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.33583,
+        "lon": 3.82778
+       }
+      },
+      {
+       "facility": "Maxima Medisch Centrum",
+       "city": "Veldhoven",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 51.41833,
+        "lon": 5.40278
+       }
+      },
+      {
+       "facility": "Zaans Medisch Centrum",
+       "city": "Zaandam",
+       "country": "Netherlands",
+       "geoPoint": {
+        "lat": 52.43854,
+        "lon": 4.82643
+       }
+      }
+     ]
+    },
+    "ipdSharingStatementModule": {
+     "ipdSharing": "NO"
+    }
+   },
+   "derivedSection": {
+    "miscInfoModule": {
+     "versionHolder": "2026-10-13"
+    },
+    "conditionBrowseModule": {
+     "meshes": [
+      {
+       "id": "D002289",
+       "term": "Carcinoma, Non-Small-Cell Lung"
+      }
+     ],
+     "ancestors": [
+      {
+       "id": "D002283",
+       "term": "Carcinoma, Bronchogenic"
+      },
+      {
+       "id": "D001984",
+       "term": "Bronchial Neoplasms"
+      },
+      {
+       "id": "D008175",
+       "term": "Lung Neoplasms"
+      },
+      {
+       "id": "D012142",
+       "term": "Respiratory Tract Neoplasms"
+      },
+      {
+       "id": "D013899",
+       "term": "Thoracic Neoplasms"
+      },
+      {
+       "id": "D009371",
+       "term": "Neoplasms by Site"
+      },
+      {
+       "id": "D009369",
+       "term": "Neoplasms"
+      },
+      {
+       "id": "D008171",
+       "term": "Lung Diseases"
+      },
+      {
+       "id": "D012140",
+       "term": "Respiratory Tract Diseases"
+      }
+     ]
+    },
+    "interventionBrowseModule": {
+     "meshes": [
+      {
+       "id": "C000613593",
+       "term": "durvalumab"
+      }
+     ]
+    }
+   },
+   "hasResults": false
+  }
+ ],
+ "nextPageToken": "NEXT"
+}

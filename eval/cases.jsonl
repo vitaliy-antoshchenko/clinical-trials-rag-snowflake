@@ -1,0 +1,23 @@
+{"id": "c01", "question": "Is there a Phase 3 trial comparing pyrotinib with docetaxel in HER2-mutant non-squamous NSCLC?", "expected_nct_ids": ["NCT04447118"]}
+{"id": "c02", "question": "Which trials test the glutaminase inhibitor telaglenastat?", "expected_nct_ids": ["NCT03831932", "NCT04265534"]}
+{"id": "c03", "question": "Which trial compares selective mediastinal lymph node sampling with systematic dissection after neoadjuvant treatment?", "expected_nct_ids": ["NCT07617389"]}
+{"id": "c04", "question": "Are any trials combining an adenosine A2B receptor antagonist with nivolumab?", "expected_nct_ids": ["NCT05234307"]}
+{"id": "c05", "question": "Which Phase 3 study adds SI-B001 to docetaxel?", "expected_nct_ids": ["NCT05943795"]}
+{"id": "c06", "question": "Is ensartinib being tested as consolidation after chemoradiotherapy in stage III ALK-positive disease?", "expected_nct_ids": ["NCT07235306"]}
+{"id": "c07", "question": "Which trial studies a subcutaneous formulation of durvalumab?", "expected_nct_ids": ["NCT07391670"]}
+{"id": "c08", "question": "Which trial evaluates PLB1004 for EGFR exon 20 insertion mutations?", "expected_nct_ids": ["NCT06015503"]}
+{"id": "c09", "question": "What trials target SMARCA4-mutated or SMARCA4-deficient tumours?", "expected_nct_ids": ["NCT05639751", "NCT07200947"]}
+{"id": "c10", "question": "Which Phase 3 trial compares sacituzumab tirumotecan plus pembrolizumab with pembrolizumab alone?", "expected_nct_ids": ["NCT06170788"]}
+{"id": "c11", "question": "Which studies use lutetium-177 radioligand therapy?", "expected_nct_ids": ["NCT07660055", "NCT05706129"]}
+{"id": "c12", "question": "Does any Phase 3 trial add stereotactic body radiation therapy to pembrolizumab in stage IV disease?", "expected_nct_ids": ["NCT03867175"]}
+{"id": "c13", "question": "Which trial compares hippocampal-avoidance whole brain radiotherapy with stereotactic radiosurgery for brain metastases?", "expected_nct_ids": ["NCT04588246"]}
+{"id": "c14", "question": "Is there a study of dasatinib with a PD-1 inhibitor for ARID1A-mutant NSCLC?", "expected_nct_ids": ["NCT04284202"]}
+{"id": "c15", "question": "Which trial combines all-trans retinoic acid with atezolizumab?", "expected_nct_ids": ["NCT04919369"]}
+{"id": "c16", "question": "Which recruiting trials combine chidamide with ivonescimab?", "expected_nct_ids": ["NCT07412262"]}
+{"id": "c17", "question": "Is anyone testing yttrium-90 labelled FAPI radioligand therapy in lung cancer?", "expected_nct_ids": ["NCT07500285"]}
+{"id": "c18", "question": "Which Phase 3 trial checks pharmacokinetic equivalence of QL2107 and Keytruda as adjuvant therapy?", "expected_nct_ids": ["NCT07162883"]}
+{"id": "c19", "question": "Which trial adds iodine-125 seed implantation to systemic therapy for oligoprogressive disease?", "expected_nct_ids": ["NCT07333651"]}
+{"id": "c20", "question": "Which Phase 3 trial compares furmonertinib plus platinum-based chemotherapy with osimertinib?", "expected_nct_ids": ["NCT06970639"]}
+{"id": "c21", "question": "Which trials exclude patients previously treated with topoisomerase I inhibitor antibody-drug conjugates?", "expected_nct_ids": ["NCT07358884", "NCT07503808", "NCT07464327", "NCT05246514", "NCT07208773", "NCT07669779", "NCT07438600", "NCT07824882", "NCT07453394", "NCT07416994"]}
+{"id": "c22", "question": "Which neoadjuvant trial counts surgical delays as a primary outcome?", "expected_nct_ids": ["NCT04832854"]}
+{"id": "c23", "question": "Which trial uses ctDNA variant allele frequency to measure the effect of local ablative therapy?", "expected_nct_ids": ["NCT05429320"]}
